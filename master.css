@@ -1,0 +1,56 @@
+*{margin:0;
+  padding:0;
+  box-sizing:border-box;
+
+
+}
+
+body {background-color:#662677;
+
+
+}
+
+.container {background-color:#847829;
+            height:1000px;
+            width:100%;
+            display:grid;
+            grid-auto-columns:1;
+            grid-auto-rows:2;
+
+            
+
+
+
+}
+
+.socket {background-color:navy;
+         height:300px;
+         width:300px;
+         
+         
+
+
+
+
+
+
+
+
+
+
+};
+         
+         
+
+
+
+
+
+
+
+
+
+
+}
+
+}
